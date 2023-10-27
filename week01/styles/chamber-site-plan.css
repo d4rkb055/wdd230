@@ -1,0 +1,23 @@
+body {
+    background-color: #cfdee7
+}
+
+h1 {
+    color: #0a369d
+}
+
+h2 {
+    color: #4472ca
+}
+
+nav {
+    background-color: #92b4f4
+}
+
+footer {
+    background-color: #5e7ec2
+}
+
+.text {
+    font-family: "Source Sans Pro", "Arial", sans-serif;
+}
